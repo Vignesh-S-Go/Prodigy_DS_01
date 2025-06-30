@@ -14,7 +14,7 @@ It contains records of population from the year **2001 to 2022**.
 ---
 
 ## 🛠️ Tools and Libraries Used
-- Jupyter Notebook
+- Google Colab
 - Pandas
 - NumPy
 - Matplotlib & Seaborn for Visualization
